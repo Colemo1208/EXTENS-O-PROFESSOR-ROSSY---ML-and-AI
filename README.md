@@ -1,2 +1,2 @@
-# EXTENS-O-PROFESSOR-ROSSY---ML-and-AI
-Nesse repositório eu vou deixar os mateirais de aula para o minicurso
+# EXTENSÃO PROFESSOR ROSSY - AI and ML
+Nesse repositório eu vou deixar os materiais de aula para o minicurso
