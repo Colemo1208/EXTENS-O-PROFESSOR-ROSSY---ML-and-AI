@@ -1,0 +1,51 @@
+ID_Funcionario,Nome,Idade,Genero,Departamento,Salario_Base,Anos_Experiencia,Ativo,Avaliacao_Desempenho,Cargo
+1,Ana Silva,50.0,F,Financeiro,6157.0,,True,7.4,Assistente de Faturamento
+2,Bruno Costa,,F,Financeiro,8915.0,,True,6.9,Analista Financeiro
+3,Carlos Oliveira,29.0,F,TI,5693.0,6.0,True,7.0,Desenvolvedor Junior
+4,Diana Santos,42.0,F,Financeiro,6627.0,11.0,False,9.2,Assistente de Faturamento
+5,Eduardo Pereira,40.0,M,Financeiro,8450.0,16.0,False,9.7,Contador
+6,Fernanda Lima,,M,TI,,,True,5.4,Desenvolvedor Pleno
+7,Gabriel Souza,32.0,F,Financeiro,8592.0,1.0,True,6.0,Analista Financeiro
+8,Helena Gomes,32.0,F,Operações,10392.0,,True,8.4,Analista de Operações
+9,Igor Martins,45.0,F,RH,4306.0,6.0,True,6.8,Coordenador de DHO
+10,Julia Rodrigues,57.0,F,RH,9776.0,16.0,False,6.3,Analista de RH
+11,Lucas Almeida,45.0,F,TI,8864.0,3.0,True,6.5,Desenvolvedor Junior
+12,Mariana Carvalho,24.0,F,Marketing,10526.0,4.0,True,6.6,Copywriter
+13,Nicolas Ribeiro,43.0,F,TI,11901.0,19.0,True,9.2,Engenheiro DevOps
+14,Olivia Mendes,23.0,F,Marketing,8575.0,3.0,True,5.7,Analista de Marketing
+15,Pedro Araujo,45.0,M,RH,8530.0,19.0,True,,Analista de RH
+16,Quintino Alves,51.0,F,TI,7413.0,7.0,True,7.8,Desenvolvedor Junior
+17,Rafaela Rocha,59.0,M,Comercial,6748.0,9.0,True,6.5,Vendedor
+18,Samuel Dias,23.0,F,Operações,3663.0,1.0,True,7.1,Analista de Operações
+19,Tatiana Ferreira,42.0,F,Financeiro,4998.0,8.0,True,6.3,Assistente de Faturamento
+20,Ulisses Barbosa,54.0,M,Marketing,10994.0,7.0,True,,Copywriter
+21,Vitoria Teixeira,33.0,F,Comercial,4495.0,18.0,True,5.4,Vendedor
+22,Wagner Castro,43.0,M,Financeiro,6304.0,8.0,True,,Assistente de Faturamento
+23,Xavier Nogueira,46.0,F,Financeiro,,1.0,True,8.1,Analista Financeiro
+24,Yasmin Correia,48.0,F,TI,8232.0,11.0,False,6.0,Engenheiro DevOps
+25,Zeca Moraes,49.0,M,Financeiro,4853.0,18.0,True,5.4,Analista Financeiro
+26,Amanda Barros,37.0,F,Operações,9585.0,10.0,False,7.0,Coordenador de Logística
+27,Bernardo Moura,36.0,M,Comercial,4291.0,3.0,True,5.3,Gerente Comercial
+28,Camila Farias,24.0,F,Financeiro,6581.0,7.0,True,9.4,Contador
+29,Daniel Ramos,58.0,M,TI,10554.0,16.0,True,5.1,Desenvolvedor Junior
+30,Elisa Vieira,28.0,M,Operações,,16.0,True,,Analista de Operações
+31,Felipe Pinto,42.0,F,RH,4636.0,17.0,False,7.2,Coordenador de DHO
+32,Giovanna Cardoso,30.0,F,Comercial,6696.0,2.0,True,8.4,Executivo de Contas
+33,Henrique Duarte,39.0,M,Financeiro,3698.0,1.0,True,6.6,Contador
+34,Isabela Machado,25.0,F,TI,7737.0,16.0,True,5.8,Analista de Dados
+35,Joao Pires,46.0,F,RH,3854.0,12.0,True,9.9,Analista de RH
+36,Leticia Freitas,35.0,F,RH,11164.0,5.0,True,9.2,Analista de RH
+37,Marcos Batista,30.0,M,Marketing,8855.0,5.0,False,9.3,Designer Gráfico
+38,Natalia Macedo,47.0,M,Operações,10392.0,,True,6.3,Analista de Operações
+39,Otavio Cruz,,M,Financeiro,9528.0,9.0,True,5.2,Analista Financeiro
+40,Patricia Neves,41.0,M,TI,8249.0,3.0,False,6.5,Engenheiro DevOps
+41,Ricardo Melo,49.0,M,Marketing,8172.0,19.0,True,7.7,Analista de Marketing
+42,Sabrina Tavares,28.0,M,Operações,4707.0,16.0,False,6.6,Coordenador de Logística
+43,Thiago Viana,29.0,M,Marketing,8791.0,,True,9.1,Designer Gráfico
+44,Ursula Monteiro,,M,Comercial,8535.0,,True,6.4,Gerente Comercial
+45,Valdir Fiqueiredo,35.0,M,Operações,7931.0,1.0,True,9.8,Coordenador de Logística
+46,Wanderson Lemos,38.0,F,Operações,6510.0,11.0,False,7.3,Analista de Operações
+47,Ximena Dantas,,M,Financeiro,3202.0,17.0,True,,Assistente de Faturamento
+48,Yuri Borges,25.0,F,Operações,7218.0,8.0,True,6.0,Coordenador de Logística
+49,Zilda Assis,23.0,F,Marketing,11958.0,4.0,True,7.1,Copywriter
+50,Alice Guimaraes,,F,Operações,7389.0,6.0,True,8.5,Analista de Operações
